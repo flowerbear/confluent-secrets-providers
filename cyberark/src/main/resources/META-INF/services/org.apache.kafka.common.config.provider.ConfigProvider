@@ -1,0 +1,12 @@
+#
+#  Copyright 2020 Confluent Inc.
+#
+
+#
+# /*
+#  * Copyright 2020 Confluent Inc.
+#  *
+#  */
+#
+
+io.confluent.secrets.cyberark.CyberarkSecretProvider
